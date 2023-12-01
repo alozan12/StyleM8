@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./vars.css" />
     <link rel="stylesheet" href="./style.css" />
-
+    <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
     <style>
       a,
       button,
@@ -43,20 +43,29 @@
           <div class="t-shirts2">T-Shirts</div>
           <div class="shirt-images">
             <a href="../FindFit/ItemTemplate/index.html">
+            <div>
             <img
               class="screenshot-2023-11-28-at-1-20-2"
               src="screenshot-2023-11-28-at-1-20-20.png"
-            /></a>
+            /></div></a>
+            <a href="../FindFit/ItemTemplate/index.html">
+            <div>
             <img
               class="screenshot-2023-11-28-at-1-20-5"
               src="screenshot-2023-11-28-at-1-20-50.png"
-            /><img
+            /></div></a>
+            <a href="../FindFit/ItemTemplate/index.html">
+            <div>
+            <img
               class="screenshot-2023-11-28-at-1-20-3"
               src="screenshot-2023-11-28-at-1-20-30.png"
-            /><img
+            /></div></a>
+            <a href="../FindFit/ItemTemplate/index.html">
+            <div>
+            <img
               class="screenshot-2023-11-28-at-1-20-4"
               src="screenshot-2023-11-28-at-1-20-40.png"
-            />
+            /></div></a>
           </div>
           <a href="../FindFit/CategoryView/index.html">
             <img class="grey-triangle-1" src="grey-triangle-10.png" />
@@ -108,7 +117,7 @@
             ><a class="my-account" href="../MyAccount/index.html"> My Account </a
             ><a class="sign-out" href="../Sign-In/index.html"> SIGN OUT </a>
           </div>
-          <a class="menu-bar-menu" href="../FindFit/CategoryView/index.html">
+          <a class="menu-bar-menu" href="../FindFit/index.html">
             <div class="rectangle-92"></div>
             <div class="rectangle-102"></div>
             <div class="rectangle-112"></div>
@@ -121,3 +130,11 @@
     </div>
   </body>
 </html>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $(".menu-div").hide();
+  });
+  $(".menu-bar").click(function(){
+    $(".menu-div").show();
+  });
+</script>
