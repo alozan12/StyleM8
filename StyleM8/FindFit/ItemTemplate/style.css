@@ -1,0 +1,211 @@
+.desktop-6,
+.desktop-6 * {
+  box-sizing: border-box;
+}
+.desktop-6 {
+  background: #ffffff;
+  width: 1440px;
+  height: 1284px;
+  position: relative;
+  overflow: hidden;
+}
+.shirt-name-here {
+  color: #000000;
+  text-align: left;
+  font: 400 64px "InriaSans-Regular", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 75px;
+  top: 148px;
+  width: 499px;
+  height: 81px;
+}
+.menu-bar {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-9 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 39px;
+  height: 13px;
+  position: absolute;
+  left: 1380px;
+  top: 23px;
+}
+.rectangle-10 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 39px;
+  height: 13px;
+  position: absolute;
+  left: 1380px;
+  top: 40px;
+}
+.rectangle-11 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 39px;
+  height: 13px;
+  position: absolute;
+  left: 1380px;
+  top: 56px;
+}
+.grey-triangle-1 {
+  width: 51px;
+  height: 63px;
+  position: absolute;
+  left: 24px;
+  top: 15px;
+}
+.frame-16 {
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 5px;
+  width: 1288px;
+  height: 913px;
+  position: absolute;
+  left: 75px;
+  top: 259px;
+  overflow: hidden;
+}
+.clothing-info-div {
+  width: 897px;
+  height: 851px;
+  position: absolute;
+  left: 169px;
+  top: 31px;
+}
+.screenshot-2023-11-28-at-1-20-1 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 383px;
+  height: 411px;
+  position: absolute;
+  left: 270px;
+  top: 0px;
+}
+.brand {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font: 400 32px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 492px;
+  width: 248px;
+  height: 54px;
+}
+.description {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font: 400 32px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 654px;
+  width: 248px;
+  height: 54px;
+}
+.style {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font: 400 32px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 1px;
+  top: 573px;
+  width: 248px;
+  height: 54px;
+}
+.brand2 {
+  color: #000000;
+  text-align: left;
+  font: 400 32px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 272px;
+  top: 488px;
+  width: 538px;
+  height: 49px;
+}
+.description2 {
+  color: #000000;
+  text-align: left;
+  font: 400 32px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 272px;
+  top: 650px;
+  width: 538px;
+  height: 49px;
+}
+.style2 {
+  color: #000000;
+  text-align: left;
+  font: 400 32px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 272px;
+  top: 569px;
+  width: 538px;
+  height: 49px;
+}
+.add-to-cart {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 5px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 380px;
+  height: 80px;
+  position: absolute;
+  left: 270px;
+  top: 770px;
+}
+.add-to-outfit-cart {
+  color: #000000;
+  text-align: center;
+  font: 400 32px "InriaSans-Regular", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.price {
+  color: #000000;
+  text-align: center;
+  font: 400 40px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 704px;
+  top: -11px;
+}
+.frame-6 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 5px;
+  width: 435px;
+  height: 115px;
+  position: absolute;
+  left: 498px;
+  top: 36px;
+  overflow: hidden;
+}
+.style-m-8-logo-1 {
+  width: 367px;
+  height: 86px;
+  position: absolute;
+  left: 34px;
+  top: 14px;
+}

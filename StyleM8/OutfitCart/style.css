@@ -1,0 +1,408 @@
+.desktop-5,
+.desktop-5 * {
+  box-sizing: border-box;
+}
+.desktop-5 {
+  background: #ffffff;
+  width: 1440px;
+  height: 1148px;
+  position: relative;
+  overflow: hidden;
+}
+.outfit-cart {
+  color: #000000;
+  text-align: left;
+  font: 400 64px "InriaSans-Regular", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 75px;
+  top: 148px;
+  width: 376px;
+  height: 82px;
+}
+.outfit-cart-div {
+  width: 1304px;
+  height: 821px;
+  position: absolute;
+  left: 75px;
+  top: 250px;
+}
+.name-and-add {
+  width: 941px;
+  height: 62px;
+  position: absolute;
+  left: 385px;
+  top: 759px;
+}
+.frame-10 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 5px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 345px;
+  height: 60px;
+  position: absolute;
+  left: 607px;
+  top: 2px;
+}
+.add-outfit {
+  color: #000000;
+  text-align: center;
+  font: 400 32px "InriaSans-Regular", sans-serif;
+  position: relative;
+}
+.frame-9 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 5px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 550px;
+  height: 60px;
+  position: absolute;
+  left: 13.55px;
+  top: 1px;
+}
+.name-your-outfit {
+  color: #000000;
+  text-align: left;
+  font: 400 32px "InriaSans-Regular", sans-serif;
+  position: relative;
+}
+.shirt-cart-div {
+  width: 614px;
+  height: 305px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.screenshot-2023-11-28-at-1-20-2 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 261px;
+  height: 305px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.brand {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 306px;
+  top: 50px;
+  width: 125px;
+  height: 44px;
+}
+.brand2 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 450px;
+  top: 50px;
+  width: 125px;
+  height: 44px;
+}
+.description {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 306px;
+  top: 138px;
+  width: 125px;
+  height: 44px;
+}
+.style {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 306px;
+  top: 94px;
+  width: 125px;
+  height: 44px;
+}
+.style2 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 450px;
+  top: 94px;
+  width: 125px;
+  height: 44px;
+}
+.description2 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 307px;
+  top: 182px;
+  width: 271px;
+  height: 123px;
+}
+.shoe-cart-div {
+  width: 661px;
+  height: 301px;
+  position: absolute;
+  left: 665px;
+  top: 179px;
+}
+.add-item {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-14 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 5px;
+  width: 329px;
+  height: 301px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.please-add-item-to-your-cart {
+  color: #ffffff;
+  text-align: center;
+  font: 400 32px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 56px;
+  top: 102px;
+}
+.shoes {
+  color: rgba(0, 0, 0, 0.6);
+  text-align: center;
+  font: 400 32px "InriaSans-Regular", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 86px;
+  top: 20px;
+  width: 157px;
+  height: 37px;
+}
+.brand3 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 353px;
+  top: 23px;
+  width: 308px;
+  height: 44px;
+}
+.style3 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 353px;
+  top: 67px;
+  width: 125px;
+  height: 44px;
+}
+.description3 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 353px;
+  top: 111px;
+  width: 125px;
+  height: 44px;
+}
+.brand4 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 499px;
+  top: 20px;
+  width: 125px;
+  height: 44px;
+}
+.style4 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 499px;
+  top: 67px;
+  width: 125px;
+  height: 44px;
+}
+.description4 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 353px;
+  top: 151px;
+  width: 271px;
+  height: 150px;
+}
+.pant-cart-div {
+  width: 619px;
+  height: 426px;
+  position: absolute;
+  left: 0px;
+  top: 391px;
+}
+.screenshot-2023-11-28-at-1-27-5 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 262px;
+  height: 426px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.brand5 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 311px;
+  top: 23px;
+  width: 308px;
+  height: 44px;
+}
+.style5 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 310px;
+  top: 67px;
+  width: 125px;
+  height: 44px;
+}
+.description5 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 311px;
+  top: 111px;
+  width: 125px;
+  height: 44px;
+}
+.style6 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 457px;
+  top: 67px;
+  width: 125px;
+  height: 44px;
+}
+.brand6 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 457px;
+  top: 23px;
+  width: 125px;
+  height: 44px;
+}
+.description6 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 311px;
+  top: 155px;
+  width: 271px;
+  height: 150px;
+}
+.menu-bar {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-9 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 39px;
+  height: 13px;
+  position: absolute;
+  left: 1380px;
+  top: 23px;
+}
+.rectangle-10 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 39px;
+  height: 13px;
+  position: absolute;
+  left: 1380px;
+  top: 40px;
+}
+.rectangle-11 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 39px;
+  height: 13px;
+  position: absolute;
+  left: 1380px;
+  top: 56px;
+}
+.grey-triangle-1 {
+  width: 51px;
+  height: 63px;
+  position: absolute;
+  left: 24px;
+  top: 15px;
+}
+.frame-6 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 5px;
+  width: 435px;
+  height: 115px;
+  position: absolute;
+  left: 498px;
+  top: 36px;
+  overflow: hidden;
+}
+.style-m-8-logo-1 {
+  width: 367px;
+  height: 86px;
+  position: absolute;
+  left: 34px;
+  top: 14px;
+}

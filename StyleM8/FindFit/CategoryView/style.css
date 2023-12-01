@@ -1,0 +1,227 @@
+.desktop-7,
+.desktop-7 * {
+  box-sizing: border-box;
+}
+.desktop-7 {
+  background: #ffffff;
+  width: 1448px;
+  height: 1359px;
+  position: relative;
+  overflow: hidden;
+}
+.menu-bar {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-9 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 39px;
+  height: 13px;
+  position: absolute;
+  left: 1380px;
+  top: 23px;
+}
+.rectangle-10 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 39px;
+  height: 13px;
+  position: absolute;
+  left: 1380px;
+  top: 40px;
+}
+.rectangle-11 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 39px;
+  height: 13px;
+  position: absolute;
+  left: 1380px;
+  top: 56px;
+}
+.t-shirt {
+  color: #000000;
+  text-align: left;
+  font: 400 64px "InriaSans-Regular", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 75px;
+  top: 148px;
+  width: 499px;
+  height: 81px;
+}
+.extra-view-div {
+  width: 1310px;
+  height: 1067px;
+  position: absolute;
+  left: 75px;
+  top: 255px;
+}
+.screenshot-2023-11-28-at-1-20-2 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 261px;
+  height: 305px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.screenshot-2023-11-28-at-1-20-3 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 261px;
+  height: 305px;
+  position: absolute;
+  left: 349px;
+  top: 0px;
+}
+.screenshot-2023-11-28-at-1-20-4 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 261px;
+  height: 305px;
+  position: absolute;
+  left: 698px;
+  top: 0px;
+}
+.screenshot-2023-11-28-at-1-20-5 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 261px;
+  height: 305px;
+  position: absolute;
+  left: 1047px;
+  top: 0px;
+}
+.screenshot-2023-11-28-at-1-20-6 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 261px;
+  height: 305px;
+  position: absolute;
+  left: 0px;
+  top: 381px;
+}
+.screenshot-2023-11-28-at-1-20-7 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 261px;
+  height: 305px;
+  position: absolute;
+  left: 349px;
+  top: 381px;
+}
+.screenshot-2023-11-28-at-1-20-8 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 261px;
+  height: 305px;
+  position: absolute;
+  left: 699px;
+  top: 381px;
+}
+.screenshot-2023-11-28-at-1-20-9 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 261px;
+  height: 305px;
+  position: absolute;
+  left: 1047px;
+  top: 381px;
+}
+.screenshot-2023-11-28-at-1-20-10 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 261px;
+  height: 305px;
+  position: absolute;
+  left: 0px;
+  top: 762px;
+}
+.screenshot-2023-11-28-at-1-20-11 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 261px;
+  height: 305px;
+  position: absolute;
+  left: 349px;
+  top: 762px;
+}
+.screenshot-2023-11-28-at-1-20-12 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 261px;
+  height: 305px;
+  position: absolute;
+  left: 699px;
+  top: 762px;
+}
+.screenshot-2023-11-28-at-1-20-13 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 261px;
+  height: 305px;
+  position: absolute;
+  left: 1049px;
+  top: 762px;
+}
+.grey-triangle-1 {
+  width: 51px;
+  height: 63px;
+  position: absolute;
+  left: 24px;
+  top: 15px;
+}
+.frame-6 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 5px;
+  width: 435px;
+  height: 115px;
+  position: absolute;
+  left: 498px;
+  top: 36px;
+  overflow: hidden;
+}
+.style-m-8-logo-1 {
+  width: 367px;
+  height: 86px;
+  position: absolute;
+  left: 34px;
+  top: 14px;
+}

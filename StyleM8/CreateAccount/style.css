@@ -1,0 +1,145 @@
+.desktop-2,
+.desktop-2 * {
+  box-sizing: border-box;
+}
+.desktop-2 {
+  background: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.find-your-fit {
+  color: #000000;
+  text-align: center;
+  font: 300 40px "Inter-Light", sans-serif;
+  position: absolute;
+  left: 535px;
+  top: 173px;
+  width: 345px;
+  height: 40px;
+}
+.grey-triangle-1 {
+  width: 51px;
+  height: 63px;
+  position: absolute;
+  left: 24px;
+  top: 15px;
+}
+.frame-5 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 5px;
+  width: 565px;
+  height: 375px;
+  position: absolute;
+  left: 438px;
+  top: 267px;
+  overflow: hidden;
+}
+.sign-in-div {
+  width: 324px;
+  height: 260px;
+  position: absolute;
+  left: 121px;
+  top: 58px;
+}
+.create-an-account {
+  color: #000000;
+  text-align: left;
+  font: 400 32px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 31px;
+  top: -1px;
+  width: 264px;
+  height: 38px;
+}
+.frame-2 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 5px;
+  padding: 10px 0px 10px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 325px;
+  height: 60px;
+  position: absolute;
+  left: 0px;
+  top: 141px;
+}
+.password {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: relative;
+}
+.frame-1 {
+  background: #8dd781;
+  border-radius: 5px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 130px;
+  position: absolute;
+  left: 98px;
+  top: 216px;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.sign-in {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: relative;
+}
+.frame-3 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 5px;
+  padding: 10px 0px 10px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 325px;
+  height: 60px;
+  position: absolute;
+  left: -1px;
+  top: 59px;
+}
+.username {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "InriaSans-Regular", sans-serif;
+  position: relative;
+}
+.frame-6 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 5px;
+  width: 435px;
+  height: 115px;
+  position: absolute;
+  left: 498px;
+  top: 36px;
+  overflow: hidden;
+}
+.style-m-8-logo-1 {
+  width: 367px;
+  height: 86px;
+  position: absolute;
+  left: 34px;
+  top: 14px;
+}

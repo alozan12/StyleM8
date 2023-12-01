@@ -1,0 +1,191 @@
+.my-account,
+.my-account * {
+  box-sizing: border-box;
+}
+.my-account {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 1440px;
+  height: 1008px;
+  position: relative;
+  overflow: hidden;
+}
+.my-account2 {
+  color: #000000;
+  text-align: left;
+  font: 400 64px "Inter-Regular", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 75px;
+  top: 148px;
+  width: 376px;
+  height: 82px;
+}
+.grey-triangle-1 {
+  width: 51px;
+  height: 63px;
+  position: absolute;
+  left: 24px;
+  top: 15px;
+}
+.menu-bar {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-9 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 39px;
+  height: 13px;
+  position: absolute;
+  left: 1380px;
+  top: 23px;
+}
+.rectangle-10 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 39px;
+  height: 13px;
+  position: absolute;
+  left: 1380px;
+  top: 40px;
+}
+.rectangle-11 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 1px;
+  width: 39px;
+  height: 13px;
+  position: absolute;
+  left: 1380px;
+  top: 56px;
+}
+.frame-7 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 5px;
+  width: 850px;
+  height: 460px;
+  position: absolute;
+  left: 297px;
+  top: 322px;
+  overflow: hidden;
+}
+.account-div {
+  width: 426px;
+  height: 354px;
+  position: absolute;
+  left: 212px;
+  top: 53px;
+}
+.num-outfits-div {
+  width: 544px;
+  height: 49px;
+  position: absolute;
+  left: 0px;
+  top: 305px;
+}
+.number-of-outfits {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 15px;
+  width: 214px;
+  height: 34px;
+}
+.number {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 330px;
+  top: 17px;
+  width: 214px;
+  height: 34px;
+}
+.password-div {
+  width: 544px;
+  height: 36px;
+  position: absolute;
+  left: 0px;
+  top: 159px;
+}
+.password {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  width: 124px;
+  height: 34px;
+}
+. {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 330px;
+  top: 0px;
+  width: 214px;
+  height: 34px;
+}
+.username-div {
+  width: 544px;
+  height: 53px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.username {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 144px;
+  height: 53px;
+}
+.username2 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 330px;
+  top: 2px;
+  width: 214px;
+  height: 34px;
+}
+.frame-6 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #8dd781;
+  border-width: 5px;
+  width: 435px;
+  height: 115px;
+  position: absolute;
+  left: 498px;
+  top: 36px;
+  overflow: hidden;
+}
+.style-m-8-logo-1 {
+  width: 367px;
+  height: 86px;
+  position: absolute;
+  left: 34px;
+  top: 14px;
+}
