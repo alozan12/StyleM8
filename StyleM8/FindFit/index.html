@@ -112,16 +112,22 @@
         <div class="inner-menu">
           <div class="menu">Menu</div>
           <div class="menu-items">
-            <a class="find-your-outfit2" href="#"> Find Your Outfit </a>
-            <a class="my-closet" href="../MyCloset/index.html"> My Closet </a
-            ><a class="my-account" href="../MyAccount/index.html"> My Account </a
+            <a href="../FindFit/index.html">
+                <div class="find-your-outfit2"> Find Your Outfit </div>
+            </a>
+            <a href="../MyCloset/index.html">
+                <div class="my-closet"> My Closet </div>
+            </a>
+              <a class="my-account" href="../MyAccount/index.html"> My Account </a
             ><a class="sign-out" href="../Sign-In/index.html"> SIGN OUT </a>
           </div>
-          <a class="menu-bar-menu" href="../FindFit/index.html">
-            <div class="rectangle-92"></div>
-            <div class="rectangle-102"></div>
-            <div class="rectangle-112"></div>
-          </a>
+          <div class="menu-exit">
+              <a>
+                  <div class="rectangle-92"></div>
+                  <div class="rectangle-102"></div>
+                  <div class="rectangle-112"></div>
+              </a>
+          </div>
         </div>
       </div>
       <div class="frame-6">
@@ -134,7 +140,10 @@
   $(document).ready(function(){
     $(".menu-div").hide();
   });
-  $(".menu-bar").click(function(){
-    $(".menu-div").show();
-  });
+    $(".menu-bar").click(function(){
+        $(".menu-div").show();
+    });
+    $(".menu-exit").click(function () {
+        $(".menu-div").hide();
+    });
 </script>
