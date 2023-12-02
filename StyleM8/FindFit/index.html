@@ -137,26 +137,13 @@
   </body>
 </html>
 <script type="text/javascript">
-$(document).ready(function() {
-  // Initially hide the menu
-  $(".menu-div").hide();
-
-  // Toggle the menu when clicking the menu bar
-  $(".menu-bar").click(function() {
-    $(".menu-div").toggle();
+  $(document).ready(function () {
+      $(".menu-div").hide();
   });
-
-  // Click handler for menu items
-  $(".menu-items").click(function(event) {
-    // Allow default action, so no need to do anything here
-    // Specifically do not stop propagation or prevent default
+  $(".menu-bar").click(function () {
+      $(".menu-div").show();
   });
-  // Clicking the menu bar icon inside the menu should close the menu
-  $(".menu-bar-menu").click(function() {
-    $(".menu-div").hide();
+  $(".menu-exit").click(function () {
+      $(".menu-div").hide();
   });
-  $(".menu-bar").click(function(){
-    $(".menu-div").show();
-  });
-}
 </script>
