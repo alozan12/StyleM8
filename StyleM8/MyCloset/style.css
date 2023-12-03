@@ -5,7 +5,7 @@
 .frame-8 {
   background: #ffffff;
   width: 1440px;
-  height: 1228px;
+  height: 1482px;
   position: relative;
   overflow: hidden;
 }
@@ -210,4 +210,128 @@
   position: absolute;
   left: 34px;
   top: 14px;
+}
+.menu-div {
+  width: 445px;
+  height: 1501px;
+  position: absolute;
+  left: 995px;
+  top: 0px;
+}
+.rectangle-12 {
+  background: #8dd781;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #d9d9d9;
+  border-width: 1px;
+  width: 445px;
+  height: 1501px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: -10px 0px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.inner-menu {
+  width: 357px;
+  height: 472px;
+  position: absolute;
+  left: 10px;
+  top: 29px;
+}
+.menu {
+  color: #000000;
+  text-align: left;
+  font: 400 40px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 167px;
+  top: -1px;
+  width: 110px;
+  height: 40px;
+}
+.menu-items {
+  width: 322px;
+  height: 304px;
+  position: absolute;
+  left: 35px;
+  top: 168px;
+}
+.find-your-outfit {
+  color: #000000;
+  text-align: left;
+  font: 400 32px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 263px;
+  height: 41px;
+}
+.my-closet2 {
+  color: #000000;
+  text-align: left;
+  font: 400 32px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 118px;
+  width: 322px;
+  height: 41px;
+}
+.my-account {
+  color: #000000;
+  text-align: left;
+  font: 400 32px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 59px;
+  width: 263px;
+  height: 41px;
+}
+.sign-out {
+  color: #ffffff;
+  text-align: left;
+  font: 400 32px "InriaSans-Regular", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 263px;
+  width: 322px;
+  height: 41px;
+}
+.menu-bar-menu {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-92 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 39px;
+  height: 13px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-102 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 39px;
+  height: 13px;
+  position: absolute;
+  left: 0px;
+  top: 17px;
+}
+.rectangle-112 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 39px;
+  height: 13px;
+  position: absolute;
+  left: 0px;
+  top: 33px;
 }
