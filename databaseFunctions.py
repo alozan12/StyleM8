@@ -211,7 +211,7 @@ def CreateOutfit(outfitName, closetID, shirtID, pantsID, shoesID):
         conn.commit()
         cur.execute("SELECT COUNT(*) FROM member, closet, outfit WHERE m_memberid = c_memberid AND o_closetid = c_closetid AND m_memberid = %(memberID)s", {"memberID": memberID})
         result = cur.fetchall()
-        totalOutfitsMember = result [0][0]
+        totalOutfitsMember = result[0][0]
         cur.execute("UPDATE member SET m_numoutfits = %(totalOutfitsMember)s", {"totalOutfitsMember": totalOutfitsMember})
         conn.commit()
         cur.close()
